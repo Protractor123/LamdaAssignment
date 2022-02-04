@@ -15,8 +15,5 @@ protractor --version
 Update the WebDriver Manager by entering the following command
 
 webdriver-manager update
-Start the WebDriver Manager by entering the following command. This would run WebdriverManager in the background and would identify the tests and run them using Protractor. As Protractor is used, the web driver automatically sends the tests to the relevant browsers.
-
-webdriver-manager start
 
 On the command prompt run the command to run all the tests : protractor conf.js
